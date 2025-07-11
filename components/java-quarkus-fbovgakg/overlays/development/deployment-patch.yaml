@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/chetna14manku_org/java-quarkus-fbovgakg:fc2c8d687a16dc38d07929d8f625ccdc57de861e@sha256:5fa6ef86fe6561b3d25c48b56c1f9fc90a11bc646ffcc0a0f255c8ceedd2b81e
+        - image: quay.io/chetna14manku_org/java-quarkus-fbovgakg:cb1620383b85ad41c90d77a7851211217d8bad6c@sha256:d15647648aa766bfeb29aa632b30f7e385e87b20ee8fa4594658a10da2f9b9d3
           name: container-image
